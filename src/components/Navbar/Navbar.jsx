@@ -10,6 +10,7 @@ export default function Navbar() {
   
   function handleSignOut(params) {
     setAuth(false);
+    
   }
 
   function handleSingIn(params) {
